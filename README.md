@@ -30,6 +30,7 @@ To run these projects, follow the steps below:
    ```
 
 2. Open the solution
+   
    Open one of three folders and double click on .sln file
 
 3. Press the start button or hit F5
